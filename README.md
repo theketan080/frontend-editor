@@ -23,11 +23,4 @@ An Online Code Editor built using HTML, CSS, and JavaScript that allows users to
 3. **Run the Code:** Execute your code and see the results for JavaScript and Python directly in the browser 🚀
 4. **Syntax Highlighting:** Enjoy clear and readable code with syntax highlighting for better coding experience 🌈
 
-## Installation
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/LakshayD02/online_code_editor.git
-    ```
-2. Open the `index.html` file in your browser to start using the editor.
-3. Customize or edit the code as per your requirements.
